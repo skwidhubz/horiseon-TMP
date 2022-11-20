@@ -5,7 +5,7 @@
 ### **HTML** changes made:
 
 - Semantic elements updated and added to distinguish sections and fuctions.
-- Added 'ID' for SEO link.
+- Added 'code'ID'code' for SEO link.
 - Removed unnecessary class code. 
 - Added comments to make HTML code sections easier to understand.
 
