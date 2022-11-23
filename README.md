@@ -2,9 +2,8 @@
 
 This is a homepage for Horiseon, SEO services. 
 
-
-![Screenshot_20221123_075723](https://user-images.githubusercontent.com/81959922/203506030-4af4aa10-34d9-49ae-bc19-9a6bdba85670.png)
-
+![Screenshot_20221123_081601](https://user-images.githubusercontent.com/81959922/203510096-8d34333b-e3a0-4149-8fba-d366378c2819.png)
+![Screenshot_20221123_081608](https://user-images.githubusercontent.com/81959922/203510123-e03d9391-5eca-469e-bfb0-6af012a2bc99.png)
 
 
 
