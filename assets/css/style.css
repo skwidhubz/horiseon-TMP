@@ -10,15 +10,6 @@ body {
     background-color: #d9dcd6;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 /* Header and header class styles */
 
 .header {
@@ -32,6 +23,8 @@ p {
     display: inline-block;
     font-size: 48px;
 }
+
+/* The .seo class relates to the main header text  */
 
 .seo {
     color: #dec1c1;
@@ -54,6 +47,12 @@ p {
     margin-left: 25px;
 }
 
+/* Designating white colour for all links within the page */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 
 /* Section-Main Class Attributes */ 
 
@@ -66,6 +65,18 @@ p {
     background-position: center;
 }
 
+p {
+    font-size: 16px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Float classes relating to the images in the content section */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,12 +85,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 #search-engine-optimization {
